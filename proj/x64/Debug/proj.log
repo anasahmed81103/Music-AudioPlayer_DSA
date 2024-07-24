@@ -1,0 +1,4 @@
+﻿  proj.cpp
+D:\anas\uni\semester 3\DS theory\project\proj copy for git\proj\proj.cpp(790,13): warning C4101: 'k': unreferenced local variable
+D:\anas\uni\semester 3\DS theory\project\proj copy for git\proj\proj.cpp(1063,14): warning C4101: 'p': unreferenced local variable
+  proj.vcxproj -> D:\anas\uni\semester 3\DS theory\project\proj copy for git\x64\Debug\proj.exe
